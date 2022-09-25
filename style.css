@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+*, ::after, ::before{
+    box-sizing: border-box;
+}
+body{
+    background-color: aquamarine;
+}
+.container{
+    width: 100%;
+    margin:10em auto;
+    text-align: center;
+}
+.coun{
+    font-size: 3em;
+}
+#value{
+    font-size: 12em;
+}
+.button-section button{
+    padding: 0.5em 0.6em;
+    font-size: 1em;
+    font-weight: 600;
+    border-radius: 0.3em;
+}
